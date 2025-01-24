@@ -4,12 +4,23 @@ Gestionale per Palestre realizzato dall'azienda DirtyGlasses (collaboratori oltr
 Codice del prodotto non ancora pubblico in GitHub perché in fase di vendita.
 
 ## Visualizzare il prodotto
-Accedere al sito:
-
-sportivo.pro
+Accedere al [sito] del prodotto
 
 Per accedere come UTENTE utlizzare account e relativa password:
-demo@sportivo.pro:demo1234
+```sh
+demo@sportivo.pro
+```
+```sh
+demo1234
+```
 
-Per accedere come UTENTE utlizzare account e relativa password:
-entedemo@sportivo.pro:demo1234
+Per accedere come ENTE utlizzare account e relativa password:
+```sh
+entedemo@sportivo.pro
+```
+```sh
+demo1234
+```
+
+
+[sito]: <https://sportivo.pro>
