@@ -6,14 +6,6 @@ Codice del prodotto non ancora pubblico in GitHub perché in fase di vendita.
 ## Visualizzare il prodotto
 Accedere al [sito] del prodotto
 
-Per accedere come UTENTE utlizzare account e relativa password:
-```sh
-demo@sportivo.pro
-```
-```sh
-demo1234
-```
-
 Per accedere come ENTE utlizzare account e relativa password:
 ```sh
 entedemo@sportivo.pro
